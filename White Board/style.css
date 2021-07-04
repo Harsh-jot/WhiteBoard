@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body, html {
+	height: 100%;
+  border: 12px solid black;
+}
+
+#myCanvas {
+	cursor: crosshair;
+    position: fixed;
+}
